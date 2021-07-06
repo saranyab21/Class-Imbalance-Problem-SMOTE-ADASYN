@@ -4,10 +4,6 @@ In machine learning, we often encounter unbalanced data. For example, in a bank'
 
 Many research papers provide many techniques including over-sampling and under-sampling, to deal with data imbalance. This repository implements some of those techniques. 
 
-- [Requirements](https://github.com/zhu-y/Imbalance-Data#requirements)
-- [Over-sampling: SMOTE](https://github.com/zhu-y/Imbalance-Data#smote)
-- [Over-sampling: ADASYN](https://github.com/zhu-y/Imbalance-Data#adasyn)
-- [References](https://github.com/zhu-y/Imbalance-Data#references)
 
 ## Requirements
 ```
