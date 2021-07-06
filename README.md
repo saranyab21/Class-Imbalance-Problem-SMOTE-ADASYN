@@ -39,7 +39,7 @@ synthetic   2D array
 neighbors   K-Nearest Neighbors model
 ```
 
-The corresponding code is in [smote.py][1]. 
+The corresponding code is in [smote.py][2]. 
 
 ### Example
 ```python
